@@ -1,12 +1,10 @@
-# cs102-F2018-participation-01-starter
-
-Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the starter files for Practical 8 in Computer Science 102.
+# cs102-F2018-participation-starters
 
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the starter files for Practical 8 in Computer Science 102.
 
 ## Introduction
-This participation concerns the missed problems of the exam. You are to supply a detailed discussion of the concepts which were missed on the exam to receive half of their points back (given the quality of the explanations.) See participation sheet for details.
+This repository contains all participation activities for the course. See participation sheets (if available) for details.
 
 
 
@@ -15,13 +13,6 @@ This participation concerns the missed problems of the exam. You are to supply a
 If you have not done so already, please read all of the relevant [GitHub Guides](https://guides.github.com/) that explain how to use many of the features that GitHub provides. In particular, please make sure that you have read the following GitHub guides: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/), [Hello World](https://guides.github.com/activities/hello-world/), and [Documenting Your Projects on GitHub](https://guides.github.com/features/wikis/). Each of these guides will help you to understand how to use both [GitHub](http://github.com) and [GitHub Classroom](https://classroom.github.com/).
 
 To do well on this task, you should also review the chapters of the course textbook and the relevant course slides. Please see the course instructor or one of the teaching assistants or tutors if you have questions.
-
-## Files:
-
-## Commands
-
-To run the program you should type `python3 concepts.py` from the `src/` directory.
-
 
 ## Assistance
 
